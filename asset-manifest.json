@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/PlannerGarden/static/css/main.a5126918.css",
-    "main.js": "/PlannerGarden/static/js/main.76c8997a.js",
+    "main.css": "/PlannerGarden/static/css/main.626fb113.css",
+    "main.js": "/PlannerGarden/static/js/main.2579579a.js",
     "static/js/453.27430910.chunk.js": "/PlannerGarden/static/js/453.27430910.chunk.js",
-    "static/media/basil.svg": "/PlannerGarden/static/media/basil.fbf7c9fa658ecc6e3bfd2301fe8868df.svg",
-    "static/media/tomato.svg": "/PlannerGarden/static/media/tomato.d3f674524990afbabb943e7171ec83da.svg",
-    "static/media/carrot.svg": "/PlannerGarden/static/media/carrot.14a9a5fb22433b96cd6e19aa9ea1e37f.svg",
+    "static/media/basil.svg": "/PlannerGarden/static/media/basil.e31007467c39c111c2a2.svg",
+    "static/media/tomato.svg": "/PlannerGarden/static/media/tomato.ace1896891d8132f38b6.svg",
+    "static/media/carrot.svg": "/PlannerGarden/static/media/carrot.fdceeb501ec4f9702067.svg",
     "index.html": "/PlannerGarden/index.html",
-    "main.a5126918.css.map": "/PlannerGarden/static/css/main.a5126918.css.map",
-    "main.76c8997a.js.map": "/PlannerGarden/static/js/main.76c8997a.js.map",
+    "main.626fb113.css.map": "/PlannerGarden/static/css/main.626fb113.css.map",
+    "main.2579579a.js.map": "/PlannerGarden/static/js/main.2579579a.js.map",
     "453.27430910.chunk.js.map": "/PlannerGarden/static/js/453.27430910.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5126918.css",
-    "static/js/main.76c8997a.js"
+    "static/css/main.626fb113.css",
+    "static/js/main.2579579a.js"
   ]
 }
